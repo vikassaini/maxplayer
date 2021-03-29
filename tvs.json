@@ -5,31 +5,11 @@
       {
         "name": "Aaj Tak Link_1",
         "url": "http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8",
-        "url_4k": "http://31.14.40.58:9083/AAJTAK_h264/index.m3u8"
+        "url_4k": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
       },
-      {
-        "name": "ABP News",
-        "url": "https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8"
-      },
-      {
-        "name": "ABP Majha",
-        "url": "https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8"
-      },
-      {
-        "name": "ABP Asmita",
-        "url": "https://abp-i.akamaihd.net/hls/live/765532/abpasmita/masterhls_1564.m3u8"
-      },
-{
-        "name": "Amar Ujala News",
-        "url": "https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8"
-      },
-      {
-        "name": "ABP Majha",
-        "url": "https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8"
-      },
-      {
-        "name": "ABP Asmita",
-        "url": "https://abp-i.akamaihd.net/hls/live/765532/abpasmita/masterhls_1564.m3u8"
+	  {
+        "name": "CNN-News18",
+        "url": "https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8"
       },
 	  {
         "name": "CNBC Awaaz",
@@ -49,13 +29,13 @@
         "url_720k": "http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8",
         "url_4k": "https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8"
       },
+	  {
+        "name": "India News",
+        "url": "https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8"
+      },
       {
         "name": "Jai Hind TV",
         "url": "http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8"
-      },
-	  {
-        "name": "Janam TV",
-        "url": "https://vidhttps.r.worldssl.net/janamtv-origin/liveabr/janamtv-origin/live1/chunks.m3u8"
       },
       {
         "name": "Janta TV",
@@ -70,87 +50,24 @@
         "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8"
       },
       {
-        "name": "News Nation",
-        "url": "https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/playlist.m3u8"
-      },
-	   {
-        "name": "News State",
-        "url": "https://hls2.newsstate.com/NS1_HTTP_LIVE/ngrp:myStream_all/chunklist.m3u8"
-      },
-      {
-        "name": "News State MP",
-        "url": "https://hls3.newsnation.in/NS2_HTTP_LIVE/ngrp:mystream3_all/chunklist.m3u8"
-      },
-      {
         "name": "News 18 Lokmat",
         "url": "https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8"
-      },
-      {
-        "name": "Republic TV",
-        "url": "https://repblicwld.s.llnwi.net/live/hls1/master_chunklist1.m3u8"
       },
       {
         "name": "Republic TV Bharat",
         "url": "https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8"
       },
       {
-        "name": "Times Now Link 1",
-        "url": "http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8"
-      },
-      {
-        "name": "Times Now Link 2",
+        "name": "Times Now",
         "url": "http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8"
       },
-      {
-        "name": "TV Punjab",
-        "url": "http://cdn.samtv.ca/tvpunjab/index.m3u8"
-      },
-      {
-        "name": "B4U Movies",
-        "url": "http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8",
-        "url_4k": "http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8",
-        "url_720k": "http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(02)/index.m3u8"
-      },
 	   {
-        "name": "B4U Kadak",
-        "url": "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8"
-      },
-     {
-        "name": "B4U Plus",
-        "url": "http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8"
-      },
-      {
-        "name": "Bollywood TV",
-        "url": "https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8"
-      },
-      {
-        "name": "Sony Pix",
-        "url": "https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8"
-      },
-      {
-        "name": "Romedy Now",
-        "url": "https://timesnow.airtel.tv/live/RN_pull/master.m3u8"
-      },
-      {
-        "name": "B4U Music",
-        "url": "http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8",
-        "url_4k": "http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8"
-      },
-      {
-        "name": "WOW MUSIC",
-        "url": "http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(01)/index.m3u8"
-      },
+        "name": "5aab TV",
+        "url": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8"
+      },	
 	  {
-        "name": "WOW MUSIC-2",
-        "url": "http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(02)/index.m3u8"
-      },
-      {
         "name": "Pardesi TV",
         "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
-      },
-	  {
-        "name": "PBN Music (USA)",
-        "url": "http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8"
       },
       {
         "name": "Jhanjar Music",
@@ -160,6 +77,14 @@
         "name": "Public Music",
         "url": "http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8"
       },
+	   {
+        "name": "Aathavan TV",
+        "url": "http://45.77.66.224:1935/athavantv/live/playlist.m3u8"
+      },
+	  {
+        "name": "A NEWSJATT TV- Bhangra Flava",
+        "url": "http://newsjatt.camdvr.org:1935/newsjatt/myStream/playlist.m3u8"
+      },
       {
         "name": "DD National",
         "url": "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8"
@@ -168,7 +93,7 @@
         "name": "DD Sports",
         "url": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8"
       },
-{
+     {
         "name": "Kairali",
         "url": "http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8"
       },
@@ -176,38 +101,91 @@
         "name": "Kalaignar",
         "url": "http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8"
       },
-    {
-        "name": "Star World HD",
-        "url": "http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8"
-      },
-	  {
-        "name": "Star Movies",
-        "url": "http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8"
-      },	 
-    {
-        "name": "Sony TV",
-        "url": "https://streamer-1.toffeelive.com/live/sony_entertainment_576/index.m3u8"
-      },
      {
-        "name": "Sony Six",
-        "url": "https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8"
+        "name": "7Star TV",
+        "url": "http://media.7starcloud.com:1935/live/7star/playlist.m3u8"
       },
 	 {
-        "name": "Sony Ten 1",
-        "url": "https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8"
+        "name": "&privé HD",
+        "url": "https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8"
+      },
+	   {
+        "name": "B4U Kadak",
+        "url": "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8"
       },
      {
-        "name": "Sony Ten 2",
-        "url": "https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8"
+        "name": "3 Tamil TV",
+        "url": "https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8"
+      },
+	  {
+        "name": "ACV",
+        "url": "https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8"
+      },
+	  {
+        "name": "ACV Jukebox",
+        "url": "https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8"
       },
      {
-        "name": "Sony Ten 3 Link 1",
-        "url": "http://163.172.85.133:8080/TenS/3/index.m3u8"
+        "name": "ACV News",
+        "url": "https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8"
+      },	
+     {
+        "name": "ACV Utsav",
+        "url": "https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8"
       },
+     {
+        "name": "ACV Utsav Plus",
+        "url": "https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8"
+      },
+	  {
+        "name": "Akaram Kidz",
+        "url": "http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8",
+		"url_720k": "http://akaram.zecast.net/akaram-live/akarammix1/playlist.m3u8"
+      },
+     {
+        "name": "Amrita TV",
+        "url": "http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8"
+      },	
+     {
+        "name": "Anjan",
+        "url": "https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8"
+      },
+     {
+        "name": "Asianet News",
+        "url": "http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8"
+      },		  
+	  {
+        "name": "Ayush TV",
+        "url": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"
+      },
+     {
+        "name": "B-Flix Movies",
+        "url": "https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8"
+      },	
+     {
+        "name": "Bloomberg TV Asia",
+        "url": "https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8"
+      },
+     {
+        "name": "Bollywood",
+        "url": "https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8"
+      },	
       {
-        "name": "Sony TEN 3 Link 2",
-        "url": "https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8"
-      }	   
+        "name": "Boogle Bollywood",
+        "url": "http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8"
+      },
+     {
+        "name": "Fashion TV",
+        "url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8"
+      },	
+    {
+        "name": "Sony Movies",
+        "url": "http://51.52.156.22:8888/http/009"
+      },		
+     {
+        "name": "ZEE Mundo HD",
+        "url": "https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8"
+      }
     ]
   },
   {
