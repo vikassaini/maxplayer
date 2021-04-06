@@ -1,9 +1,9 @@
 [
   {
-    "tag_name": "7.2.0+150",
-    "name": "PlayTube 8.2.0+150",
+    "tag_name": "1.0.1+1",
+    "name": "PlayTube 1.0.1+1",
     "created_at": "2021-03-27T22:19:30Z",
-    "published_at": "2021-03-27T23:48:03Z",
+    "published_at": "2021-04-05T23:48:03Z",
     "assets": [
       {
         "content_type": "application/vnd.android.package-archive",
@@ -12,11 +12,11 @@
         "download_count": 214,
         "created_at": "2021-03-27T23:36:52Z",
         "updated_at": "2021-03-27T23:48:02Z",
-        "browser_download_url": "https://github.com/SongTube/SongTube-App/releases/download/6.2.0%2B150/songtube-release.6.2.0.apk"
+        "browser_download_url": "https://github.com/"
       }
     ],
-    "tarball_url": "https://api.github.com/repos/SongTube/SongTube-App/tarball/6.2.0+150",
-    "zipball_url": "https://api.github.com/repos/SongTube/SongTube-App/zipball/6.2.0+150",
+    "tarball_url": "https://api.github.com/",
+    "zipball_url": "https://api.github.com/",
     "body": "- Advanced Playlist Download:\r\n    * New playlist menu where you can choose what to download\r\n    * You can change each video download type from audio to video or viseversa\r\n    * You can change all videos to audio/video download type\r\n    * You can select the quality for all the videos to be downloaded\r\n\r\n- Youtube Video Player:\r\n    * Picture in Picture is now supported!\r\n    * The player will now remember the chosen quality\r\n    * Videos should now load faster\r\n    * Video Player now shows current streaming quality text\r\n\r\n- In-App updates support:\r\n    * You can now install download/install an update inside the app\r\n    * The app will check for updates on startup\r\n    * Redesigned updates UI\r\n\r\n- General:\r\n    * Youtube Music screen can now be hidden from Settings\r\n    * Fixed download saving issues on some devices\r\n    * Fixed download saving to SDCard\r\n    * Tags Editor retrieves higher quality Artwork\r\n    * Music Player background now shows behing system Navigation Bar\r\n    * Added a \"Copy error\" button on cancelled downloads (if needed)\r\n    * Setting's Audio/Video download path option now shows current path\r\n    * Fixed app crash when disabling audio conversion"
   }
   ]
