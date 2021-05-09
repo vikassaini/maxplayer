@@ -3,19 +3,103 @@
         "courseimg": "https://api.androidhive.info/json/movies/1.jpg",
         "courseMode": "8.3",
         "courseTracks": "Action Sci-Fi",
-        "moreappUrl": "Audio"
+        "moreappUrl": "https://Google.com"
     },
     {
         "courseName": "District 9",
         "courseimg": "https://api.androidhive.info/json/movies/2.jpg",
         "courseMode": "8",
         "courseTracks": "Action Thriller",
-        "moreappUrl": "Songs Video"
+        "moreappUrl": "https://thetechify.com"
     },
     {
         "courseName": "Transformers: Age of Extinction",
         "courseimg": "https://api.androidhive.info/json/movies/3.jpg",
         "courseMode": "6.3",
         "courseTracks": "Action Sci-Fi",
-        "moreappUrl": "songs"
+        "moreappUrl": "https://thetechify.com"
+    },
+    {
+        "courseName": "X-Men: Days of Future Past",
+        "courseimg": "https://api.androidhive.info/json/movies/4.jpg",
+        "courseMode": "8.4",
+        "courseTracks": "Action Thriller",
+        "moreappUrl": "https://thetechify.com"
+    },
+    {
+        "courseName": "The Machinist",
+        "courseimg": "https://api.androidhive.info/json/movies/5.jpg",
+        "courseMode": "7.8",
+        "courseTracks": "Drama Thriller",
+        "moreappUrl": "https://thetechify.com"
+    },
+    {
+        "courseName": "The Last Samurai",
+        "courseimg": "https://api.androidhive.info/json/movies/6.jpg",
+        "courseMode": "7.7",
+        "courseTracks": "Action History",
+        "moreappUrl": "https://thetechify.com"
+    },
+    {
+        "courseName": "The Amazing Spider-Man 2",
+        "courseimg": "https://api.androidhive.info/json/movies/7.jpg",
+        "courseMode": "7.3",
+        "courseTracks": "Action Fantasy",
+        "moreappUrl": "https://thetechify.com"
+    },
+    {
+        "courseName": "Tangled",
+        "courseimg": "https://api.androidhive.info/json/movies/8.jpg",
+        "courseMode": "7.9",
+        "courseTracks": "Sci-Fi",
+        "moreappUrl": "https://thetechify.com"
+    },
+    {
+        "courseName": "Rush",
+        "courseimg": "https://api.androidhive.info/json/movies/9.jpg",
+        "courseMode": "8.3",
+        "courseTracks": "Animation Family",
+        "moreappUrl": "https://thetechify.com"
+    },
+    {
+        "courseName": "Drag Me to Hell",
+        "courseimg": "https://api.androidhive.info/json/movies/10.jpg",
+        "courseMode": "6.7",
+        "courseTracks": "Horror Thriller",
+        "moreappUrl": "https://thetechify.com"
+    },
+    {
+        "courseName": "Despicable Me 2",
+        "courseimg": "https://api.androidhive.info/json/movies/11.jpg",
+        "courseMode": "7.6",
+        "courseTracks": "Animation Family",
+        "moreappUrl": "https://thetechify.com"
+    },
+    {
+        "courseName": "Kill Bill: Vol. 1", 
+        "courseimg": "https://api.androidhive.info/json/movies/12.jpg",
+        "courseMode": "8.2",
+        "courseTracks": "Action Crime",
+        "moreappUrl": "https://thetechify.com"
+    },
+    {
+        "courseName": "A Bug's Life",
+        "courseimg": "https://api.androidhive.info/json/movies/13.jpg",
+        "courseMode": "7.2",
+        "courseTracks": "Animation Comedy",
+        "moreappUrl": "https://thetechify.com"
+    },
+    {
+        "courseName": "Life of Brian",
+        "courseimg": "https://api.androidhive.info/json/movies/14.jpg",
+        "courseMode": "8.9",
+        "courseTracks": "Comedy",
+        "moreappUrl": "https://thetechify.com"
+    },
+    {
+        "courseName": "How to Train Your Dragon",
+        "courseimg": "https://api.androidhive.info/json/movies/15.jpg",
+        "courseMode": "8.2",
+        "courseTracks": "Animation Family",
+        "moreappUrl": "https://thetechify.com"
     }]
