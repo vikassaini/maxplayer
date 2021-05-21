@@ -1,0 +1,22 @@
+{
+ "appInfos": {
+    "appName": "MaxPlayer | Live TV",
+    "applicationId": "com.mediaplayer.maxvideoplayer",
+    "minSdkVersion": 14,
+    "targetSdkVersion": 29,
+    "versionCode": 16,
+    "versionName": "3.0",
+    "appLink": "https://omsoft.thetechify.com/release/maxplayer30.apk",
+    "appPartLinks": [
+      "https://omsoft.thetechify.com/release/maxplayer30.apk"
+    ],
+    "appLength": 15891910,
+    "appSha1": "3c73fa4134bc630ea24760e1d131af3aed34bc58",
+    "updateLogs": [
+      "1. Bug Fixed",
+      "2. Whatsapp saver"
+    ],
+    "promptDialogAnchorActivityClsName": "com.mediaplayer.maxvideoplayer.view.activity.MainActivity"
+  },
+  "author": "Vikash Gorayan"
+}
